@@ -26,5 +26,3 @@ function trun(str, maxlength) {
 - Русский
 - Белорусский
 - Английский(B1)
-
-
